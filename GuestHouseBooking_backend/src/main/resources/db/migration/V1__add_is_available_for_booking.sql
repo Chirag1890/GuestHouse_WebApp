@@ -1,0 +1,1 @@
+ALTER TABLE bed ADD COLUMN is_available_for_booking BOOLEAN NOT NULL DEFAULT TRUE; 
