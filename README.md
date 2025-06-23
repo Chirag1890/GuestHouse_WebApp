@@ -13,7 +13,7 @@ This project follows a monorepo structure and is divided into two main parts:
 
 ### Backend
 
--   **Java 17**
+-   **Java 24**
 -   **Spring Boot**
 -   **Spring Security** (with JWT for authentication)
 -   **Spring Data JPA** (Hibernate)
